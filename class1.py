@@ -1,0 +1,2 @@
+# Strings
+print("Hello world")
